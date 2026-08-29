@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.elyby.wardrobe.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "TitleScreenMixin",
+    "AbstractClientPlayerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
